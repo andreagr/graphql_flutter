@@ -1,4 +1,4 @@
-package com.example.patchai_test
+package com.graphql_test
 
 import io.flutter.embedding.android.FlutterActivity
 

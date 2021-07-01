@@ -1,6 +1,6 @@
-# patchai_test
+# graphql_test
 
-A new Flutter project.
+A test project to try and implement GraphQL into a Flutter app.
 
 ## Getting Started
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:patchai_test/classes/mission.dart';
+import 'package:graphql_test/classes/mission.dart';
 
 class MissionEntry extends StatefulWidget {
   final Mission mission;

@@ -1,6 +1,6 @@
 {
-    "name": "patchai_test",
-    "short_name": "patchai_test",
+    "name": "graphql_test",
+    "short_name": "graphql_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

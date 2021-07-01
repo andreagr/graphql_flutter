@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
-import 'package:patchai_test/classes/mission.dart';
-import 'package:patchai_test/widgets/mission_entry.dart';
-import 'package:patchai_test/widgets/query_error.dart';
+import 'package:graphql_test/classes/mission.dart';
+import 'package:graphql_test/widgets/mission_entry.dart';
+import 'package:graphql_test/widgets/query_error.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key? key}) : super(key: key);
