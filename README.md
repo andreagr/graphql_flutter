@@ -4,13 +4,12 @@ A test project to try and implement GraphQL into a Flutter app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this program on your machine, follow these steps:
+- Open your terminal
+- Clone the repo in your desired folder through the command: "git clone https://github.com/andreagr/graphql_flutter.git"
+- Run "flutter run" from the terminal or through your IDE
 
-A few resources to get you started if this is your first Flutter project:
+This project has been tested on the iOS emulator and Web.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To correctly display network images in the Web you will need to select "html" as renderer through the following command:
+"flutter run --web-renderer html"
